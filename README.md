@@ -9,7 +9,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/hikoo/fcitx5-moyun-theme.git \
+git clone https://github.com/szlx233/fcitx5-moyun-theme.git \
   ~/.local/share/fcitx5/themes/fcitx5-moyun-theme
 ```
 
